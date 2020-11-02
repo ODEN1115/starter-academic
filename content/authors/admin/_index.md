@@ -23,7 +23,7 @@ interests:
 
 education:
   courses:
-  - course: 修士 (統合科学)
+  - course: 修士 (統合科学) 取得予定
     institution: 岡山大学 大学院ヘルスシステム統合科学研究科
     year: 2021
   - course: 学士 (工学)
@@ -50,9 +50,9 @@ social:
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/oden1115
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/oden1115
 - icon: lastfm
   icon_pack: fab
   link: https://www.last.fm/user/oden_denchan
